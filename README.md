@@ -24,6 +24,9 @@ Menampilkan **Description List** atau daftar deskriptif menggunakan elemen `<dl>
   <dd>Teknik Lingkungan</dd>
 </dl>
 ```
+Step 1
+
+ <img src="ss3.png" alt="Deskripsi gambar">
 
 **Tujuan:** Menunjukkan penggunaan *description list* untuk menjelaskan item utama dan sub-itemnya.
 
@@ -58,6 +61,7 @@ Berisi contoh **tabel HTML** sederhana untuk menampilkan data dalam format baris
   </tbody>
 </table>
 ```
+<img src="ss4.png" alt="Deskripsi gambar">
 
 **Tujuan:** Menampilkan data terstruktur secara rapi dalam bentuk tabel.
 
@@ -84,6 +88,8 @@ Berisi contoh **formulir HTML** untuk menerima input dari pengguna seperti nama,
 </form>
 ```
 
+<img src="ss5.png" alt="Deskripsi gambar">
+
 **Tujuan:** Memahami cara mengirim data pengguna melalui form menggunakan metode POST.
 
 ---
@@ -106,6 +112,10 @@ Berisi tiga jenis daftar berbeda:
   <li>Struktur Data</li>
 </ul>
 ```
+
+<img src="ss1.png" alt="Deskripsi gambar">
+
+<img src="ss2.png" alt="Deskripsi gambar">
 
 **Tujuan:** Menunjukkan perbedaan fungsi dan tampilan dari tiga jenis list pada HTML.
 
